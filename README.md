@@ -1,1 +1,1 @@
-# Cvicenie1Kocan
+# 1 Test na README
